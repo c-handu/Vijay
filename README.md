@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/KONtL5g.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="vijay.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Paruzz" src="https://img.shields.io/badge/Paruzz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Vijayz" src="https://img.shields.io/badge/Vijayz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/warioo/Paruz"><img title="Author" src="https://img.shields.io/badge/Author-paruzz/Paathu?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/c-handu/Vijay"><img title="Author" src="https://img.shields.io/badge/Author-Vijayz/Paathu?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/warioo/Paruz">paruzz</a> to make it public
+Project created by <a href="https://github.com/c-handu/Vijay">Vijayz</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/warioo/Paruz">paruzz</a> to make 
 ----
 
   <p align="center">
-  <a href="https://github.com/warioo/Paruz">
+  <a href="https://github.com/c-handu/Vijay">
     <img src="https://img.shields.io/github/repo-size/Fasil-vkn/Paathu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Fasil-vkn/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fasil-vkn?color=blue&style=flat-square"></a>
@@ -40,7 +40,7 @@ Project created by <a href="https://github.com/warioo/Paruz">paruzz</a> to make 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/warioo/Paruz)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/c-handu/Vijay)
      </div>
 <br>
 <br >
